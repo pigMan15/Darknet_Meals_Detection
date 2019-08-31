@@ -1,4 +1,4 @@
-
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)  ![Travis](https://img.shields.io/badge/Blog-pigMan-orange)
 ## 简介： 
     基于Darknet框架的饭菜图片简易识别
 
