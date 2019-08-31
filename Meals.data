@@ -1,0 +1,5 @@
+classes = 3
+train = Meals_train.txt
+valid = Meals_test.txt
+names = Meals.names
+backup = backup/
